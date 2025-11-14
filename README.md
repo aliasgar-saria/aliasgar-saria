@@ -40,7 +40,9 @@ This GitHub is currently under construction! About 90% of my code has yet to be 
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logoColor=white)](https://linkedin.com/in/aliasgar-saria)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&&logoColor=white)](https://linktr.ee/aliasgar.saria)
-[![Email](https://img.shields.io/badge/aliasgar.saria@outlook.com-D14836?style=for-the-badge&logoColor=white)](mailto:aliasgar.saria@outlook.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logoColor=white)](mailto:aliasgar.saria@outlook.com)
+
+Reach out to me here: aliasgar.saria@outlook.com
 
 ---
 
