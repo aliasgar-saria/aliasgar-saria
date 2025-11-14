@@ -40,7 +40,7 @@ This GitHub is currently under construction! About 90% of my code has yet to be 
 
 **BTW, if you know where my profile picture is from, then you're cool! Happy to chill!** 😎
 
-**ICH BIN EIN NERD! Und ich 'protect' das Internet!** 👨‍💻🛡️
+**ICH BIN EIN NERD! Und ich 'protecte' das Internet!** 👨‍💻🛡️
 
 <img width="546" height="378" alt="Das Internet" src="https://github.com/user-attachments/assets/326c17ed-d93f-4306-901b-80aaf5e8de53" />
 
