@@ -1,20 +1,20 @@
 # Hi, I'm Aliasgar Saria (Ali) 👋
 
-I'm an AI/ML Engineer and Data Scientist currently working on computer vision at ISI Kolkata IDEAS Technology Innovation Hub, focusing on understanding and processing Diabetic Eye Retinopathy (Eye Fundus images).
+I specialize in building ML solutions, have worked with NLP - LLM's, SLMs, Multimodal Vision, Agentic AI orchestration, and edge computing. I also do Data Analysis and Statistical Analysis with SQL and Power BI. Learning Cuda in my freetime.
 
-I specialize in building ML solutions with PyTorch and SLMs, Multimodal Vision, Agentic AI orchestration (Zapier, N8N), and edge computing. I also do Data Analysis and Statistical Analysis with SQL and Power BI. Learning Cuda in my freetime.
+I'm an AI/ML Engineer and Data Scientist currently working on computer vision at ISI Kolkata IDEAS Technology Innovation Hub, focusing on understanding and processing Diabetic Eye Retinopathy (Eye Fundus images). Have worked other places too please check my Resume below.
 
 Earned my Master's in Data Science from Fergusson College with specialized training in Deep Learning from ISI Kolkata.
 
-When I'm not coding, I'm learning business, cooking, travelling, exploring cultures and learning languages (spoken & tech)!
+When I'm not coding, I'm working on my business, cooking, travelling, exploring cultures and learning languages (spoken & tech)!
 
 ###  Advocating for
 
-- Equitable & Ethical AI
-- Local & Explainable AI (xAI)
+- Equitable, Ethical and Local AI
 - Open Source OSS development
+- XGBoost is all you need
 - Linux everywhere
-- Data Privacy and Cyber Security for all
+- Data Privacy
 - Scalable and Thoughful Solution Building
 
 ###  Exploring Impactful and Growth Opportunities In 
