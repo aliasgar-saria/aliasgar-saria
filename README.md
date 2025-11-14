@@ -2,7 +2,7 @@
 
 I'm an AI/ML Engineer and Data Scientist currently working on computer vision at ISI Kolkata IDEAS Technology Innovation Hub, focusing on understanding and processing Diabetic Eye Retinopathy (Eye Fundus images).
 
-I specialize in building ML solutions with PyTorch and SLMs, Multimodal Vision, Agentic AI orchestration (Zapier, N8N), and edge computing. I also do Data Analysis and Statistical Analysis with SQL and Power BI.
+I specialize in building ML solutions with PyTorch and SLMs, Multimodal Vision, Agentic AI orchestration (Zapier, N8N), and edge computing. I also do Data Analysis and Statistical Analysis with SQL and Power BI. Learning Cuda in my freetime.
 
 Earned my Master's in Data Science from Fergusson College with specialized training in Deep Learning from ISI Kolkata.
 
