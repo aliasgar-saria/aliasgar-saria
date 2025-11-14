@@ -10,14 +10,14 @@ Earned my Master's in Data Science from Fergusson College with specialized train
 
 When I'm not coding, I'm learning business, cooking, travelling, exploring cultures and learning languages!
 
-### 🎯 My Core Priorities
+###  My Core Priorities
 
 - Equitable & Ethical AI
 - Local & Explainable AI (xAI)
 - Data Privacy and Cyber Security
 - Scalable Solution Building
 
-### 🔍 Exploring Opportunities In
+###  Exploring Opportunities In
 
 **1. Healthcare Data Analysis and Medical Computer Vision**
 - Focus areas: Neurology, Cardiology, Mobility
@@ -28,15 +28,14 @@ When I'm not coding, I'm learning business, cooking, travelling, exploring cultu
 
 ---
 
-### 🚧 GitHub Profile Under Development
+###  GitHub Profile Under Development
 
-**Note:** This GitHub is currently under construction! About 90% of my code has yet to be pushed here—most of my work lives locally or in private repos. Stay tuned as I gradually migrate and showcase my projects. Think of this as the trailer before the main show! 🎬
+**Note:** This GitHub is currently under construction! About 90% of my code has yet to be pushed here—most of my work lives locally or in private repos. Stay tuned as I gradually migrate and showcase my projects.
 
 ---
 
-### 🎯 Fun Challenge
 
-**If you know where my profile picture is from, then you're cool! Happy to chill!** 😎
+**BTW, if you know where my profile picture is from, then you're cool! Happy to chill!** 😎
 
 ---
 
