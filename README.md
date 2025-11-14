@@ -14,7 +14,7 @@ When I'm not coding, I'm working on my business, cooking, travelling, exploring 
 - Open Source OSS development
 - XGBoost is all you need
 - Linux everywhere
-- Data Privacy
+- Data Privacy and awareness
 - Scalable and Thoughful Solution Building
 
 ###  Exploring Impactful and Growth Opportunities In 
