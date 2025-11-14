@@ -6,7 +6,7 @@ I specialize in building ML solutions with PyTorch and SLMs, Multimodal Vision, 
 
 Earned my Master's in Data Science from Fergusson College with specialized training in Deep Learning from ISI Kolkata.
 
-When I'm not coding, I'm learning business, cooking, travelling, exploring cultures and learning languages!
+When I'm not coding, I'm learning business, cooking, travelling, exploring cultures and learning languages (spoken & tech)!
 
 ###  Advocating for
 
