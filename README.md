@@ -15,7 +15,7 @@ When I'm not coding, I'm learning business, cooking, travelling, exploring cultu
 - Open Source OSS development
 - Linux everywhere
 - Data Privacy and Cyber Security for all
-- Scalable Thoughful Solution Building
+- Scalable and Thoughful Solution Building
 
 ###  Exploring Impactful and Growth Opportunities In 
 
