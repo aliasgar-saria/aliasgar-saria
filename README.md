@@ -2,9 +2,9 @@
 
 I specialize in building ML solutions, have worked with NLP - LLM's, SLMs, Multimodal Vision, Agentic AI orchestration, and edge computing. I also do Data Analysis and Statistical Analysis with SQL and Power BI. A little bit of project management here and there. Learning Cuda and Databricks in my freetime.
 
-I'm an AI/ML Engineer and Data Scientist currently working on computer vision at ISI Kolkata IDEAS Technology Innovation Hub, focusing on understanding and processing Diabetic Eye Retinopathy (Eye Fundus images). Have worked other places too please check my Resume below.
+I'm an AI/ML Engineer and Data Scientist currently working on computer vision at ISI Kolkata IDEAS Technology Innovation Hub, focusing on understanding and processing Diabetic Eye Retinopathy (Eye Fundus images). Have worked and volunteered at many other places too please check my Resume below or Linkedin.
 
-Earned my Master's in Data Science from Fergusson College with specialized training in Deep Learning from ISI Kolkata.
+Earned my Master's in Data Science from Fergusson College with specialized training in WSDL from ISI Kolkata.
 
 When I'm not coding, I'm working on my business, cooking, travelling, exploring cultures and learning languages (spoken & tech)!
 
