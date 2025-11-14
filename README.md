@@ -1,24 +1,30 @@
 # Hi, I'm Aliasgar Saria (Ali) 👋
-I'm an AI/ML Engineer and a Data Scientist.
 
-Currently working on computer vision at ISI Kolkata IDEAS Technology Innovation Hub, understanding and processing Diabetic Eye Retinopathy (Eye Fundus images)
-I specialize in building ML solutions with PyTorch and SLMs, Multimodal Vision, Agentic AI orchestration (Zapier, N8N), and edge computing. Can so Data Analysis and Statistical Analysis with SQL and Power BI.
+I'm an AI/ML Engineer and Data Scientist currently working on computer vision at ISI Kolkata IDEAS Technology Innovation Hub, focusing on understanding and processing Diabetic Eye Retinopathy (Eye Fundus images).
 
-You can check my resume here: [![Resume](https://img.shields.io/badge/Resume-DC143C?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://linktr.ee/aliasgar.saria)
+I specialize in building ML solutions with PyTorch and SLMs, Multimodal Vision, Agentic AI orchestration (Zapier, N8N), and edge computing. I also do Data Analysis and Statistical Analysis with SQL and Power BI.
+
+[![Resume](https://img.shields.io/badge/Resume-DC143C?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://linktr.ee/aliasgar.saria)
 
 Earned my Master's in Data Science from Fergusson College with specialized training in Deep Learning from ISI Kolkata.
 
 When I'm not coding, I'm learning business, cooking, travelling, exploring cultures and learning languages!
 
-My Priorites:
-Equitable & Ethical AI
-Local &  xAI
-Data Privacy and Cyber Security
-Scalable Solution Building
+### 🎯 My Core Priorities
 
-Exploring opportunities to contribute in 2 sectors:
-1, Healthcare Data Analysis and/or medical computer vision (Neurology/Cardiology/Mobility). Want to build something impactful, meaningful and which helps save lifes.
-2. Physical AI, Digital Twins and Robotics. These are fascinating new developments.
+- Equitable & Ethical AI
+- Local & Explainable AI (xAI)
+- Data Privacy and Cyber Security
+- Scalable Solution Building
+
+### 🔍 Exploring Opportunities In
+
+**1. Healthcare Data Analysis and Medical Computer Vision**
+- Focus areas: Neurology, Cardiology, Mobility
+- Goal: Build impactful, meaningful solutions that help save lives
+
+**2. Physical AI, Digital Twins and Robotics**
+- Fascinated by these emerging developments and their potential
 
 ---
 
