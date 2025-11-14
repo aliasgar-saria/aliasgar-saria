@@ -15,7 +15,7 @@ When I'm not coding, I'm learning business, cooking, travelling, exploring cultu
 - Data Privacy and Cyber Security
 - Scalable Solution Building
 
-###  Exploring Opportunities In
+###  Exploring Impactful and Growth Opportunities In [![Resume](https://img.shields.io/badge/Resume-DC143C?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://linktr.ee/aliasgar.saria)
 
 **1. Healthcare Data Analysis and Medical Computer Vision**
 - Focus areas: Neurology, Cardiology, Mobility
@@ -24,7 +24,7 @@ When I'm not coding, I'm learning business, cooking, travelling, exploring cultu
 **2. Physical AI, Digital Twins and Robotics**
 - Fascinated by these emerging developments and their potential
 
-[![Resume](https://img.shields.io/badge/Resume-DC143C?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://linktr.ee/aliasgar.saria)
+
 
 ---
 
