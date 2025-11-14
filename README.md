@@ -37,16 +37,19 @@ This GitHub is currently under construction! About 90% of my code has yet to be 
 
 ---
 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aliasgar-saria)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://linktr.ee/aliasgar.saria)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aliasgar.saria@outlook.com)
+
+---
 
 **BTW, if you know where my profile picture is from, then you're cool! Happy to chill!** 😎
 
 **ICH BIN EIN NERD! Und ich 'protecte' das Internet!** 👨‍💻🛡️
 
-<img width="546" height="378" alt="Das Internet" src="https://github.com/user-attachments/assets/326c17ed-d93f-4306-901b-80aaf5e8de53" />
+<img width="382" height="264" alt="image" src="https://github.com/user-attachments/assets/3b7cc51f-d520-489d-b9af-f8bf236fc3ca" />
 
 
 ---
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aliasgar-saria)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://linktr.ee/aliasgar.saria)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aliasgar.saria@outlook.com)
+
