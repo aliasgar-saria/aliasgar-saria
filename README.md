@@ -2,7 +2,10 @@
 I'm an AI/ML Engineer and a Data Scientist.
 
 Currently working on computer vision at ISI Kolkata IDEAS Technology Innovation Hub, understanding and processing Diabetic Eye Retinopathy (Eye Fundus images)
-I specialize in building AI solutions with PyTorch and SLMs, Statistical Analysis, Multimodal Vision, Agentic AI orchestration (Zapier, N8N), and edge computing. Learning Cuda and C++.
+I specialize in building ML solutions with PyTorch and SLMs, Multimodal Vision, Agentic AI orchestration (Zapier, N8N), and edge computing. Can so Data Analysis and Statistical Analysis with SQL and Power BI.
+
+You can check my resume here:[![Resume](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://linktr.ee/aliasgar.saria)
+
 Earned my Master's in Data Science from Fergusson College with specialized training in Deep Learning from ISI Kolkata. 
 Certified across Microsoft Azure (AI-102, DP-100, AZ-204, AZ-104), AWS (AIF-C01), and experienced in deploying production ML systems on cloud platforms. 
 When I'm not coding, I'm learning business, cooking, travelling, exploring cultures and learning languages!
