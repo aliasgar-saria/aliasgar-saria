@@ -8,12 +8,13 @@ Earned my Master's in Data Science from Fergusson College with specialized train
 
 When I'm not coding, I'm learning business, cooking, travelling, exploring cultures and learning languages!
 
-###  My Core Priorities
+###  Advocating for
 
 - Equitable & Ethical AI
 - Local & Explainable AI (xAI)
-- Data Privacy and Cyber Security
-- Scalable Solution Building
+- Open Source OSS development
+- Data Privacy and Cyber Security for all
+- Scalable Thoughful Solution Building
 
 [![Resume](https://img.shields.io/badge/Resume-DC143C?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://linktr.ee/aliasgar.saria)
 ###  Exploring Impactful and Growth Opportunities In 
