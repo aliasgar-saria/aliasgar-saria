@@ -43,7 +43,7 @@ This GitHub is currently under construction! About 90% of my code has yet to be 
 
 ---
 
-**BTW, if you know where my profile picture is from, then you're cool! Happy to chill!** 😎
+**BTW, if you know where my profile picture is from, then you're pretty cool! Happy to chill!** 😎
 
 **ICH BIN EIN NERD! Und ich 'protecte' das Internet!** 👨‍💻🛡️
 
