@@ -4,8 +4,6 @@ I'm an AI/ML Engineer and Data Scientist currently working on computer vision at
 
 I specialize in building ML solutions with PyTorch and SLMs, Multimodal Vision, Agentic AI orchestration (Zapier, N8N), and edge computing. I also do Data Analysis and Statistical Analysis with SQL and Power BI.
 
-[![Resume](https://img.shields.io/badge/Resume-DC143C?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://linktr.ee/aliasgar.saria)
-
 Earned my Master's in Data Science from Fergusson College with specialized training in Deep Learning from ISI Kolkata.
 
 When I'm not coding, I'm learning business, cooking, travelling, exploring cultures and learning languages!
@@ -25,6 +23,8 @@ When I'm not coding, I'm learning business, cooking, travelling, exploring cultu
 
 **2. Physical AI, Digital Twins and Robotics**
 - Fascinated by these emerging developments and their potential
+
+[![Resume](https://img.shields.io/badge/Resume-DC143C?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://linktr.ee/aliasgar.saria)
 
 ---
 
