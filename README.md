@@ -11,10 +11,10 @@ When I'm not coding, I'm working on my business, cooking, travelling, exploring 
 ###  Advocating for
 
 - Equitable, Ethical and Local AI
-- Open Source OSS development
+- Open Source OSS
 - XGBoost is all you need
-- Linux everywhere
-- Data Privacy and awareness
+- Linux
+- Data Privacy
 - Scalable and Thoughful Solution Building
 
 ###  Exploring Impactful and Growth Opportunities In 
