@@ -38,9 +38,9 @@ This GitHub is currently under construction! About 90% of my code has yet to be 
 
 ---
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aliasgar-saria)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://linktr.ee/aliasgar.saria)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aliasgar.saria@outlook.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logoColor=white)](https://linkedin.com/in/aliasgar-saria)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&&logoColor=white)](https://linktr.ee/aliasgar.saria)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logoColor=white)](mailto:aliasgar.saria@outlook.com)
 
 ---
 
