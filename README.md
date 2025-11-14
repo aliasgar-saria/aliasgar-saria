@@ -13,6 +13,7 @@ When I'm not coding, I'm learning business, cooking, travelling, exploring cultu
 - Equitable & Ethical AI
 - Local & Explainable AI (xAI)
 - Open Source OSS development
+- Linux everywhere
 - Data Privacy and Cyber Security for all
 - Scalable Thoughful Solution Building
 
