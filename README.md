@@ -16,7 +16,6 @@ When I'm not coding, I'm learning business, cooking, travelling, exploring cultu
 - Data Privacy and Cyber Security for all
 - Scalable Thoughful Solution Building
 
-[![Resume](https://img.shields.io/badge/Resume-DC143C?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://linktr.ee/aliasgar.saria)
 ###  Exploring Impactful and Growth Opportunities In 
 
 **1. Healthcare Data Analysis and Medical Computer Vision**
@@ -25,6 +24,8 @@ When I'm not coding, I'm learning business, cooking, travelling, exploring cultu
 
 **2. Physical AI, Digital Twins and Robotics**
 - Fascinated by these emerging developments and their potential
+
+[![Resume & Portfolio](https://img.shields.io/badge/Resume-DC143C?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://linktr.ee/aliasgar.saria)
 
 
 
