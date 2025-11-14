@@ -7,7 +7,7 @@ I specialize in building ML solutions with PyTorch and SLMs, Multimodal Vision, 
 You can check my resume here: [![Resume](https://img.shields.io/badge/Resume-DC143C?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://linktr.ee/aliasgar.saria)
 
 Earned my Master's in Data Science from Fergusson College with specialized training in Deep Learning from ISI Kolkata.
-Certified across Microsoft Azure (AI-102, DP-100, AZ-204, AZ-104), AWS (AIF-C01), and experienced in deploying production ML systems on cloud platforms. 
+
 When I'm not coding, I'm learning business, cooking, travelling, exploring cultures and learning languages!
 
 My Priorites:
