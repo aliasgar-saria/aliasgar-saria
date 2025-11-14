@@ -21,7 +21,7 @@ When I'm not coding, I'm learning business, cooking, travelling, exploring cultu
 
 **1. Healthcare Data Analysis and Medical Computer Vision**
 - Focus areas: Neurology, Cardiology, Mobility
-- Goal: Build impactful, meaningful solutions that help save lives
+- Goal: Build impactful, meaningful solutions
 
 **2. Physical AI, Digital Twins and Robotics**
 - Fascinated by these emerging developments and their potential
