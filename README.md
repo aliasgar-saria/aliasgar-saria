@@ -36,7 +36,7 @@ When I'm not coding, I'm working on my business, cooking, travelling, exploring 
 
 ###  GitHub Profile Under Development
 
-This GitHub is currently under construction! About 90% of my code has yet to be pushed here, most of my work lives locally or in private repos. Stay tuned as I gradually migrate and showcase my projects as well as documented older abandoned ones.
+This GitHub is currently under construction! About 90% of my code is yet to be pushed here, most of my work lives locally. I will gradually migrate and showcase my projects as well as documented older ones.
 
 ---
 
