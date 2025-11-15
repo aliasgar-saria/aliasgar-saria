@@ -26,7 +26,7 @@ When I'm not coding, I'm working on my business, cooking, travelling, exploring 
 **2. Physical AI, Digital Twins and Robotics**
 - Fascinated by these emerging developments and their potential
 
-[![Resume+Portfolio](https://img.shields.io/badge/Resume+Portfolio-DC143C?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://linktr.ee/aliasgar.saria)
+[![Resume+Portfolio](https://img.shields.io/badge/Resume+Portfolio-DC143C?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://linktr.ee/aliasgar.saria#512289427)
 
 
 
