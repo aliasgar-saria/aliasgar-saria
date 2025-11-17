@@ -1,5 +1,7 @@
 # Hi, I'm Aliasgar Saria (Ali) 👋
 
+### About me
+
 - AI/ML Engineer & Data Scientist specializing in: 
   - Multimodal Vision
   - NLP: LLMs, SLMs 
@@ -7,23 +9,20 @@
   - Agentic AI Orchestration
   - Edge Computing
   - Data & Statistical Analysis (SQL, Power BI, MS Fabric)  
-  - Project Management (occasional)
-
+  - Project / Product Management
+  - 
 - Currently working with Healthcare Computer Vision at **Indian Statistical Institute, Kolkata - IDEAS Technology Innovation Hub**, working on Diabetic Eye Retinopathy (Eye Fundus images).
-
 - Master's in Data Science from Fergusson College with specialized WSDL training from ISI Kolkata.
-
 - Actively learning CUDA, Databricks and Digital Twins.
 
-# Experience & Interests
+### Experience & Interests
 
 - Diverse experience working and volunteering at various organizations (check resume/LinkedIn for details).
 
 - Passionate about:
-  - Building AI/ML solutions  
-  - Coding and technical problem solving  
-  - Running my own business  
-  - Cooking, travelling, cultural exploration  
+  - Building scalable solutions 
+  - Coding and technical troubleshooting
+  - Cooking, travelling, cultural exploration 
   - Learning languages (both spoken and technical)
 
 ###  Advocating for
@@ -33,7 +32,6 @@
 - XGBoost is all you need
 - Linux
 - Data Privacy
-- Scalable and Thoughful Solution Building
 
 ###  Exploring Impactful and Growth Opportunities In 
 
