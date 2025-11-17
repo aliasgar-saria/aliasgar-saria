@@ -1,6 +1,6 @@
 # Hi, I'm Aliasgar Saria (Ali) 👋
 
-### About me
+## About me
 
 - AI/ML Engineer & Data Scientist specializing in: 
   - Multimodal Vision
@@ -15,7 +15,7 @@
 - Master's in Data Science from Fergusson College with specialized WSDL training from ISI Kolkata.
 - Actively learning CUDA, Databricks and Digital Twins.
 
-### Experience & Interests
+## Experience & Interests
 
 - Diverse experience working and volunteering at various organizations (check resume/LinkedIn for details).
 - Passionate about:
@@ -24,7 +24,7 @@
   - Cooking, travelling, cultural exploration 
   - Learning languages (both spoken and technical)
 
-###  Advocating for
+##  Advocating for
 
 - Equitable, Ethical and Local AI
 - Open Source OSS
@@ -32,7 +32,7 @@
 - Linux
 - Data Privacy
 
-###  Exploring Impactful and Growth Opportunities In 
+##  Exploring Impactful and Growth Opportunities In 
 
 **1. Healthcare Data Analysis and Medical Computer Vision**
 - Focus areas: Neurology, Cardiology, Mobility
