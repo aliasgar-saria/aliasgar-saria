@@ -41,7 +41,7 @@
 **2. Physical AI, Digital Twins and Robotics**
 - Fascinated by these emerging developments and their potential
 
-**3. Anything else which is truely worthwhile, impactful and scalable. Contact me and would like to discuss** 
+**3. Anything else which is truely worthwhile, impactful and scalable. Would love to discuss** 
 
 [![Resume+Portfolio](https://img.shields.io/badge/Resume+Portfolio-DC143C?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://linktr.ee/aliasgar.saria#512289427)
 
