@@ -9,7 +9,7 @@
   - Data & Statistical Analysis (SQL, Power BI, MS Fabric)  
   - Project Management (occasional)
 
-- Currently working on Computer Vision at **Indian Statistical Institute, Kolkata - IDEAS Technology Innovation Hub**, working on Diabetic Eye Retinopathy (Eye Fundus images).
+- Currently working with Healthcare Computer Vision at **Indian Statistical Institute, Kolkata - IDEAS Technology Innovation Hub**, working on Diabetic Eye Retinopathy (Eye Fundus images).
 
 - Master's in Data Science from Fergusson College with specialized WSDL training from ISI Kolkata.
 
