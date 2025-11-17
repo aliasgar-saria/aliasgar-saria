@@ -1,12 +1,30 @@
 # Hi, I'm Aliasgar Saria (Ali) 👋
 
-I specialize in building ML solutions, have worked with NLP - LLM's, SLMs, Multimodal Vision, Agentic AI orchestration, and edge computing. I also do Data Analysis and Statistical Analysis with SQL and Power BI. A little bit of project management here and there. Learning Cuda and Databricks in my freetime.
+- AI/ML Engineer & Data Scientist specializing in: 
+  - Multimodal Vision
+  - NLP: LLMs, SLMs 
+  - Cloud - AZURE / AWS
+  - Agentic AI Orchestration
+  - Edge Computing
+  - Data & Statistical Analysis (SQL, Power BI, MS Fabric)  
+  - Project Management (occasional)
 
-I'm an AI/ML Engineer and Data Scientist currently working on computer vision at ISI Kolkata IDEAS Technology Innovation Hub, focusing on understanding and processing Diabetic Eye Retinopathy (Eye Fundus images). Have worked and volunteered at many other places too please check my Resume below or Linkedin.
+- Currently working on Computer Vision at **Indian Statistical Institute, Kolkata - IDEAS Technology Innovation Hub**, working on Diabetic Eye Retinopathy (Eye Fundus images).
 
-Earned my Master's in Data Science from Fergusson College with specialized training in WSDL from ISI Kolkata.
+- Master's in Data Science from Fergusson College with specialized WSDL training from ISI Kolkata.
 
-When I'm not coding, I'm working on my business, cooking, travelling, exploring cultures and learning languages (spoken & tech)!
+- Actively learning CUDA, Databricks and Digital Twins.
+
+# Experience & Interests
+
+- Diverse experience working and volunteering at various organizations (check resume/LinkedIn for details).
+
+- Passionate about:
+  - Building AI/ML solutions  
+  - Coding and technical problem solving  
+  - Running my own business  
+  - Cooking, travelling, cultural exploration  
+  - Learning languages (both spoken and technical)
 
 ###  Advocating for
 
@@ -30,8 +48,6 @@ When I'm not coding, I'm working on my business, cooking, travelling, exploring 
 
 [![Resume+Portfolio](https://img.shields.io/badge/Resume+Portfolio-DC143C?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://linktr.ee/aliasgar.saria#512289427)
 
-
-
 ---
 
 ###  GitHub Profile Under Development
@@ -53,7 +69,6 @@ Feel free to connect via LinkedIn or email me here: aliasgar.saria@outlook.com
 **ICH BIN EIN NERD! Und ich 'protecte' das Internet!** 👨‍💻🛡️
 
 <img width="382" height="264" alt="image" src="https://github.com/user-attachments/assets/3b7cc51f-d520-489d-b9af-f8bf236fc3ca" />
-
 
 ---
 
