@@ -34,20 +34,20 @@
 
 ##  Exploring Impactful and Growth Opportunities In 
 
-**1. Healthcare Data Analysis and Medical Computer Vision**
-- Focus areas: Neurology, Cardiology, Mobility
-- Goal: Build impactful, meaningful solutions
+- **Healthcare Data Analysis and Medical Computer Vision**
+  - Focus areas: Neurology, Cardiology, Mobility
+  - Goal: Build impactful, meaningful solutions
 
-**2. Physical AI, Digital Twins and Robotics**
-- Fascinated by these emerging developments and their potential
+- **Physical AI, Digital Twins and Robotics**
+  - Fascinated by these emerging developments and their potential
 
-**3. Anything else which is truely worthwhile, impactful and scalable. Would love to discuss** 
+- **Anything else which is truely worthwhile, impactful and scalable. Would love to discuss** 
 
 [![Resume+Portfolio](https://img.shields.io/badge/Resume+Portfolio-DC143C?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://linktr.ee/aliasgar.saria#512289427)
 
 ---
 
-###  GitHub Profile Under Development
+##  GitHub Profile Under Development
 
 This GitHub is currently under construction! About 90% of my code is yet to be pushed here, most of my work lives locally. I will gradually migrate and showcase my projects as well as documented older ones.
 
