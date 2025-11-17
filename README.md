@@ -5,7 +5,7 @@
 - AI/ML Engineer & Data Scientist specializing in: 
   - Multimodal Vision
   - NLP: LLMs, SLMs 
-  - Cloud - AZURE / AWS
+  - Cloud: AZURE / AWS
   - Agentic AI Orchestration
   - Edge Computing
   - Data & Statistical Analysis (SQL, Power BI, MS Fabric)  
