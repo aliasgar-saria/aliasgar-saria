@@ -5,7 +5,7 @@
 - AI/ML Engineer & Data Scientist specializing in: 
   - Multimodal Vision
   - NLP: LLMs, SLMs 
-  - Cloud: AZURE / AWS
+  - Cloud: AZURE / AWS / GCP
   - Agentic AI Orchestration
   - Edge Computing
   - Data & Statistical Analysis (SQL, Power BI, MS Fabric)  
@@ -19,10 +19,9 @@
 
 - Diverse experience working and volunteering at various organizations (check resume/LinkedIn for details).
 - Passionate about:
-  - Building scalable solutions 
   - Coding and technical troubleshooting
   - Cooking, travelling, cultural exploration 
-  - Learning languages (both spoken and technical)
+  - Learning languages
 
 ##  Advocating for
 
