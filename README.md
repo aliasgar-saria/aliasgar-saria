@@ -1,4 +1,4 @@
-# Hi, I'm Aliasgar Saria (Ali) 👋
+# Hi, I'm Ali 👋
 
 ## About me
 
@@ -41,8 +41,6 @@
   - Fascinated by these emerging developments and their potential
 
 - **Anything else which is truely worthwhile, impactful and scalable. Would love to discuss** 
-
-[![Resume+Portfolio](https://img.shields.io/badge/Resume+Portfolio-DC143C?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://linktr.ee/aliasgar.saria#512289427)
 
 ---
 
