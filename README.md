@@ -50,11 +50,8 @@ This GitHub is currently under construction! About 90% of my code is yet to be p
 
 ---
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logoColor=white)](https://linkedin.com/in/aliasgar-saria)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&&logoColor=white)](https://linktr.ee/aliasgar.saria)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logoColor=white)](mailto:aliasgar.saria@outlook.com)
 
-Feel free to connect via LinkedIn or email me here: aliasgar.saria@outlook.com
 
 ---
 
