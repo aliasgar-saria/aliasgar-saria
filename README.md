@@ -47,6 +47,7 @@ This GitHub is currently under construction! About 90% of my code is yet to be p
 ---
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logoColor=white)](mailto:aliasgar.saria@outlook.com)
+[![Resume+Portfolio](https://img.shields.io/badge/Resume+Portfolio-DC143C?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://linktr.ee/aliasgar.saria#512289427)
 
 
 ---
