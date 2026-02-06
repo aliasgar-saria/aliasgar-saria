@@ -48,7 +48,7 @@ This GitHub is currently under construction! About 90% of my code is yet to be p
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logoColor=white)](mailto:aliasgar.saria@outlook.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logoColor=white)](https://linkedin.com/in/aliasgar-saria)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&&logoColor=white)](https://linktr.ee/aliasgar.saria)
+[![Portfolio](https://img.shields.io/badge/Resume+Portfolio-DC143C?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://linktr.ee/aliasgar.saria#512289427)
 
 
 ---
